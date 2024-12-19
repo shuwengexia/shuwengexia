@@ -19,12 +19,11 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuwengexia&layout=compact&langs_count=8" />
   <span>&emsp;&emsp;</span>
 </div>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=shuwengexia&repo=shuwengexia.github.io)](https://github.com/shuwengexia/shuwengexia.github.io)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shuwengexia" />
 </div>
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=shuwengexia&repo=shuwengexia.github.io)](https://github.com/shuwengexia/shuwengexia.github.io)
 
 
 
